@@ -1,0 +1,1 @@
+print('scrip2')
