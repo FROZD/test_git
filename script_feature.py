@@ -1,2 +1,3 @@
 print('script3')
-print('add featre in origin')
+print('add feature in origin')
+print('edit new remote')
